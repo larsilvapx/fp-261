@@ -20,6 +20,11 @@ Material das aulas de Fundamentos de Python Aplicado a Dados da CESAR School do 
 | Aula 10 - Numpy | _em breve_ |
 | Aula 11 - Pandas | _em breve_ |
 
+### ✨ Extra
+
+* [Ambientes Virtuais e Instação de Bibliotecas Externas](/venv_pip.md)
+* [LLM Tutor Python do NExT](/LLM_tutor.md)
+
 ## 🥇 Equipe
 
 * [Andrei Lima](https://www.linkedin.com/in/andrei-lima-a04585169/)
@@ -28,10 +33,6 @@ Material das aulas de Fundamentos de Python Aplicado a Dados da CESAR School do 
 * [Pedro Bedor](https://www.linkedin.com/in/pedrobedor/)
 * [Ramon Ribeiro](https://www.linkedin.com/in/ramonhpr/)
 * [Thiago Brayner](https://www.linkedin.com/in/thiago-brayner-5aa44b247/)
-
-### Extra
-
-* [Ambientes Virtuais e Instação de Bibliotecas Externas](/venv_pip.md)
 
 ### Sugestões
 
@@ -46,8 +47,4 @@ Para quem gosta de estudar por livros, temos essas sugestões:
 
 ### 📺 YouTube
 
-### 📱 Redes Sociais
-
-## LLM Tutor Python do NExT
-
-✨ [Acesse aqui um prompt para LLM criado especialmente para vocês!](/LLM_tutor.md)
+### 📱 Influencers

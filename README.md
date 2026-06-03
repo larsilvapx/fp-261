@@ -47,4 +47,11 @@ Para quem gosta de estudar por livros, temos essas sugestões:
 
 ### 📺 YouTube
 
+* [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao)
+* [Guanabara](https://www.youtube.com/@cursoemvideo)
+* [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini)
+* [Fernanda Kipper](https://www.youtube.com/@kipperdev)
+
 ### 📱 Influencers
+
+* <https://www.instagram.com/pablo_aa/>

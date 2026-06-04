@@ -18,7 +18,7 @@ Material das aulas de Fundamentos de Python Aplicado a Dados da CESAR School do 
 | Aula 08 - Estruturas de Dados | [Conteúdo](/aula08/README.md) - [Práticas](/aula08/praticas/) - [Exercícios Resolvidos](/aula08/exercicios/) |
 | Aula 09 - Módulos e Pacotes | [Conteúdo](/aula09/README.md) - [Práticas](/aula09/praticas/) - [Exercícios Resolvidos](/aula09/exercicios/) |
 | Aula 10 - Numpy | [Conteúdo](/aula10/README.md)  - [Práticas](/aula10/praticas/)  - [Exercícios Resolvidos](/aula10/exercicios/) |
-| Aula 11 - Pandas | _em breve_ |
+| Aula 11 - Pandas | [Conteúdo](/aula11/README.md) |
 
 ### ✨ Extra
 
